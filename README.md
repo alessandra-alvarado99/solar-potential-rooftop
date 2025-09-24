@@ -34,14 +34,14 @@ Using **building footprint data** from the [Open Energy Data Initiative (OEDI) D
 - **CO₂ savings per rooftop:** ~20.9 tons/year  
 - **Potential cost savings per rooftop:** ~$7,800/year  
 
----
+
 
 ## Tech Stack
 - Python (pandas, geopandas, shapely, sklearn, requests)  
 - AWS S3 (OEDI Data Lake access)  
 - PVGIS API (solar irradiation)  
 
----
+
 
 ## Business Impact
 This framework allows city planners, utility companies, and sustainability teams to:
